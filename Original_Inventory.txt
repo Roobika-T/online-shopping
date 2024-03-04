@@ -1,0 +1,4 @@
+Product          Price         Count
+ABCDE           1000            100
+FGHIJ           2000            200
+KLMNO           3000            300
